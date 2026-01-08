@@ -1,4 +1,4 @@
-package com.itheima.dome1;
+package com.itheima.day01;
 
 public class HelloWolrd {
         //mian方法
